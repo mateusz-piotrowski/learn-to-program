@@ -8,4 +8,5 @@
 - README.md
 - big-ruby-program.rb
 - chapter-1.rb [examples from chapter-1]
-- hours-within-year [todo from chapter-1]
+- hours-within-year.rb [todo from chapter-1]
+- minutes-within-decade.rb [todo from chapter-1]
