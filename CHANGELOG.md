@@ -5,6 +5,7 @@
 **Changed :**
 - Rename big-ruby-program.rb to big-ruby-program
 
+- chapter-3.rb [examples from chapter-2]
 
 ## [0.0.1] (May 8 2021)
 
