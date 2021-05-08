@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.2] (May 9 2021)
+
+**Changed :**
+- Rename big-ruby-program.rb to big-ruby-program
+
+
 ## [0.0.1] (May 8 2021)
 
 **Added :**
