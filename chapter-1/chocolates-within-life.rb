@@ -1,0 +1,20 @@
+puts ""
+puts "# = = = = = = = = = = "
+puts "# Chapter 1"
+puts "# File: chocolates-within-life.rb"
+puts "# = = = = = = = = = = "
+puts ""
+
+puts "Constants:"
+puts "Years during life: 80"
+puts "Days within year: 365"
+puts "Hours within day: 24"
+puts "Months within year: 12"
+puts "Minutes within hour: 60"
+puts "Seconds within minute: 60"
+puts "Chocolates within months: 3"
+puts ""
+
+puts "Chocolates during life:"
+puts 80*12*3
+puts ""
