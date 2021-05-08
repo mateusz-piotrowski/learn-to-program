@@ -13,3 +13,5 @@
 - seconds-old.rb [todo from chapter-1]
 - chocolates-within-life.rb [todo from chapter-1]
 - seconds-to-years.rb [todo from chapter-1]
+
+- chapter-2.rb [examples from chapter-2]
