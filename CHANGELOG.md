@@ -9,6 +9,7 @@
 
 - chapter-4.rb [examples from chapter-4]
 - personal-data.rb [todo from chapter-4]
+- favourite-number.rb [todo from chapter-4]
 
 ## [0.0.1] (May 8 2021)
 
