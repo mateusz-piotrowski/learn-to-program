@@ -6,7 +6,9 @@
 - Rename big-ruby-program.rb to big-ruby-program
 
 - chapter-3.rb [examples from chapter-2]
+
 - chapter-4.rb [examples from chapter-4]
+- personal-data.rb [todo from chapter-4]
 
 ## [0.0.1] (May 8 2021)
 
