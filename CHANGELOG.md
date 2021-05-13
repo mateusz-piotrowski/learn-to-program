@@ -5,6 +5,7 @@
 **Added :**
 
 - chapter-5.rb [examples from chapter-5]
+- angry-boss.rb [todo from chapter-5]
 
 
 ## [0.0.2] (May 9 2021)
