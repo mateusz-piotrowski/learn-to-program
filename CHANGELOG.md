@@ -8,17 +8,22 @@
 - angry-boss.rb [todo from chapter-5]
 - table-of-contents.rb [todo from chapter-5]
 
+**Updated :**
+
+- content of CHANGELOG.md
 
 ## [0.0.2] (May 9 2021)
 
-**Changed :**
-- Rename big-ruby-program.rb to big-ruby-program
+**Added :**
 
 - chapter-3.rb [examples from chapter-2]
-
 - chapter-4.rb [examples from chapter-4]
 - personal-data.rb [todo from chapter-4]
 - favourite-number.rb [todo from chapter-4]
+
+**Changed :**
+
+- Rename big-ruby-program.rb to big-ruby-program
 - compress big-ruby-program
 
 
@@ -35,5 +40,4 @@
 - seconds-old.rb [todo from chapter-1]
 - chocolates-within-life.rb [todo from chapter-1]
 - seconds-to-years.rb [todo from chapter-1]
-
 - chapter-2.rb [examples from chapter-2]
