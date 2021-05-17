@@ -6,6 +6,10 @@
 
 - chapter-6.rb [examples from chapter-6]
 
+**Updated :**
+
+- CHANGELOG.md layout
+
 ## [0.0.4] (May 14 2021)
 
 **Updated :**
@@ -37,7 +41,6 @@
 
 - Rename big-ruby-program.rb to big-ruby-program
 - compress big-ruby-program
-
 
 ## [0.0.1] (May 8 2021)
 
