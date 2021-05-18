@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.6] (May 18 2021)
+
+**Added :**
+
+- 99-bottles.rb [todo from chapter-6]
+
 ## [0.0.5] (May 17 2021)
 
 **Added :**
