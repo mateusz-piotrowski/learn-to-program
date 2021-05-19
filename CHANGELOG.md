@@ -5,6 +5,7 @@
 **Added :**
 
 - deaf-grandma.rb [todo from chapter-6]
+- leap-years.rb [todo from chapter-6]
 
 ## [0.0.6] (May 18 2021)
 
