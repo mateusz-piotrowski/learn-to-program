@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.7] (May 19 2021)
+
+**Added :**
+
+- deaf-grandma.rb [todo from chapter-6]
+
 ## [0.0.6] (May 18 2021)
 
 **Added :**
