@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.9] (May 21 2021)
+
+**Added :**
+
+- sort-array.rb [todo from chapter-7]
+
 ## [0.0.8] (May 20 2021)
 
 **Added :**
