@@ -6,6 +6,7 @@
 
 - sort-array-manually.rb [todo from chapter-7]
 - new-table-of-contents.rb [todo from chapter-7]
+- chapter-8.rb [examples from chapter-8]
 
 ## [0.0.9] (May 21 2021)
 
