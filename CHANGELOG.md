@@ -5,6 +5,7 @@
 **Added :**
 
 - english-number.rb [todo from chapter-8]
+- wedding-number.rb [todo from chapter-8]
 
 **Updated :**
 
