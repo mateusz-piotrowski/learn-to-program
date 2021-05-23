@@ -6,6 +6,7 @@
 
 - english-number.rb [todo from chapter-8]
 - wedding-number.rb [todo from chapter-8]
+- bottles-of-beer.rb [todo from chapter-8]
 
 **Updated :**
 
