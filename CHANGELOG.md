@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.11] (May 23 2021)
+
+**Added :**
+
+- english-number.rb [todo from chapter-8]
+
 ## [0.0.10] (May 22 2021)
 
 **Added :**
