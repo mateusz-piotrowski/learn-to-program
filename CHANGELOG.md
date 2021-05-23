@@ -6,6 +6,10 @@
 
 - english-number.rb [todo from chapter-8]
 
+**Updated :**
+
+- english-number.rb [todo from chapter-8]
+
 ## [0.0.10] (May 22 2021)
 
 **Added :**

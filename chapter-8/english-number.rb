@@ -31,6 +31,31 @@ def englishNumber number
   # write and left... get it?  :)
   left  = number
 
+  write = left/1000000
+  left = left - write*1000000
+
+  if write > 0
+    # Now here's a really sly trick:
+    millions  = englishNumber write
+    num_string = num_string + millions + ' million'
+    # That's called "recursion". So what did I just do?
+    # I told this method to call itself, but with "write" instead of
+    # "number". Remember that "write" is (at the moment) the number of
+    # millions we have to write out. After we add "millions" to
+    # "num_string", we add the string ' thousend' after it.
+    # So, for example, if we originally called englishNumber with
+    # 1999 (so "number" = 1999), then at this point "write" would
+    # be 19, and "left" would be 99. The laziest thing to do at this
+    # point is to have englishNumber write out the 'nineteen' for us,
+    # then we write out ' millions', and then the rest of
+    # englishNumber writes out 'ninety-nine'.
+
+    if left > 0
+      # So we don't write 'two hundredfifty-one'...
+      num_string = num_string + ' '
+    end
+  end
+
   write = left/1000
   left = left - write*1000
 
@@ -122,4 +147,6 @@ puts englishNumber(10)
 puts englishNumber(100)
 puts englishNumber(1000)
 puts englishNumber(10000)
+puts englishNumber(100000)
+puts englishNumber(1000000)
 puts ''
