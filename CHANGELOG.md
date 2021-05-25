@@ -8,6 +8,10 @@
 - one-billion-seconds.rb [todo from chapter-9]
 - happy-birthday.rb [todo from chapter-9]
 
+**Updated :**
+
+- chapter-9.rb [examples from chapter-9]
+
 ## [0.0.11] (May 23 2021)
 
 **Added :**
