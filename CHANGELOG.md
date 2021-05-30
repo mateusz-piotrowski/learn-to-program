@@ -6,6 +6,7 @@
 
 - baby-dragon.rb [todo from chapter-9]
 - chapter-10.rb [examples from chapter-10]
+- grandfather-clock.rb [todo from chapter-10]
 
 ## [0.0.12] (May 25 2021)
 
