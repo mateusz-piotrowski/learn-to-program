@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.13] (May 30 2021)
+
+**Added :**
+
+- baby-dragon.rb [todo from chapter-9]
+
 ## [0.0.12] (May 25 2021)
 
 **Added :**
