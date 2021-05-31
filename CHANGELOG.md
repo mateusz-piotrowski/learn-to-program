@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.14] (May 31 2021)
+
+**Added :**
+
+- better-logger.rb [todo from chapter-10]
+
 ## [0.0.13] (May 30 2021)
 
 **Added :**
