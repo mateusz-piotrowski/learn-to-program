@@ -5,11 +5,12 @@ puts "# File: deaf-grandma.rb"
 puts "# = = = = = = = = = = "
 puts ""
 
+question_to_grandma = ""
+
 grandma_repeat = "HUH?!  SPEAK UP, SONNY!"
 grandma_reply = "NO, NOT SINCE 1938!"
 
 puts 'Hello Grandson, What you want?'
-question_to_grandma = gets.chomp
 
 # Mark 1
 while question_to_grandma != "BYE"
@@ -17,9 +18,10 @@ while question_to_grandma != "BYE"
   if question_to_grandma != ""
     if question_to_grandma == "BYE"
       puts "Exitting..."
+      puts ''
       exit
     end
-    if question_to_grandma == question_to_grandma.capitalize
+    if question_to_grandma == question_to_grandma.upcase
       puts grandma_reply
     else
       puts grandma_repeat

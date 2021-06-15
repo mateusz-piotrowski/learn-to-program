@@ -4,7 +4,8 @@
 
 **Updated :**
 
-- chapter-6.rb [examples from chapter-10]
+- chapter-6.rb [examples from chapter-6]
+- deaf-grandma.rb [todo from chapter-6]
 
 ## [0.0.14] (May 31 2021)
 
