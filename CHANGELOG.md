@@ -1,6 +1,12 @@
 # The Changelog
 
-## [0.0.17] (June 26 2021)
+## [0.0.18] (June 26 2021)
+
+**Added :**
+
+- chapter-11.rb [examples from chapter-11]
+
+## [0.0.17] (June 25 2021)
 
 **Updated :**
 
